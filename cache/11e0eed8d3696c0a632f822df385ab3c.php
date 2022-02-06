@@ -1,0 +1,1 @@
+a:4:{s:4:"Host";s:9:"localhost";s:4:"pOrt";i:3306;s:4:"user";s:4:"root";s:5:"cache";a:2:{s:4:"CCSs";i:3;s:3:"ppH";i:9;}}
